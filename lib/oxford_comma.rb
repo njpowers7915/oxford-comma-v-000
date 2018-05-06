@@ -11,4 +11,5 @@ def oxford_comma(array)
   
   elsif array.size == 1
     array
+  end
 end
