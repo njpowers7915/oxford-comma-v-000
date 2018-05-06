@@ -10,6 +10,6 @@ def oxford_comma(array)
   elsif array.size == 2
   
   elsif array.size == 1
-    array
+    array.join
   end
 end
